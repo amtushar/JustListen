@@ -15,7 +15,7 @@ let songs =[
   {songName:'US - Sidhu Moose Wala', filePath:'songs/US.mp3', cover:'cover/us.jpg', time:'03:36'},
   {songName:'2 am - Karan Aujla', filePath:'songs/2am.mp3', cover:'cover/2am.jpg', time:'03:36'},
   {songName:'Bekhayali - Arijit Singh', filePath:'songs/bekhyali.mp3', cover:'cover/min.jpg', time:'03:36'},
-  {songName:'kabira - Tochi Raina', filePath:'songs/kabira.mp3', cover:'cover/kabira.jpg', time:'03:36'},
+  {songName:'kabira - Tochi Raina', filePath:'songs/kabira.mp3', cover:'cover/Kabira.jpg', time:'03:36'},
   {songName:'Brown Rang - Yo Yo Honey Singh', filePath:'songs/brown.mp3', cover:'cover/honey.jpg', time:'03:36'}
 
 ]
